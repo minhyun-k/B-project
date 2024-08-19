@@ -31,7 +31,7 @@ header .header-wrap {
   height: 80px;
   margin: 0 auto;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   align-items: center;
 }
 header .header-wrap h1 {
@@ -560,6 +560,7 @@ h2 {
     width: 0%;
     display: block;
     margin: 0;
+    position: absolute;
     animation: line-1 0.3s forwards;
   }
   @keyframes line-1 {
@@ -571,9 +572,10 @@ h2 {
     padding: 30px 0;
     max-height: 200px;
   }
-  header.active nav ul li a {
+  header.active nav ul li > a {
     color: black;
     font-weight: 400 !important;
+    display: inline-block;
   }
   header.active .drop-down-menu li a {
     color: black;

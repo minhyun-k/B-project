@@ -18,7 +18,7 @@ let nav = ()=>{
         navLi.onclick = function(e){
             // e.preventDefault();
             btnNav.forEach((delLi)=>{delLi.classList.remove('active')});
-            this.classList.add('active'); 
+            this.classList.add('active');
         }
     })
 
