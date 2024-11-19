@@ -9,7 +9,7 @@
 
 ## 📝 프로젝트 소개
 
-# B-Project는 순수 HTML, CSS, JavaScript만을 활용하여 제작한 웹 프로젝트로, 다음과 같은 목표를 가지고 개발되었습니다.
+### B-Project는 순수 HTML, CSS, JavaScript만을 활용하여 제작한 웹 프로젝트로, 다음과 같은 목표를 가지고 개발되었습니다.
 
 1. **웹 기본기를 다지기 위한 학습 목적**
 
@@ -162,23 +162,41 @@ B-project/
 │ ├── 📄study-detail.js # 연구 세부 정보 페이지 
 <br />
 │ ├── 📄study.js # 연구 관련 일반 페이지 
+<br />
 │ ├── 📄subPage.js 
+<br />
 │ └── 📄top_btn.js # 스크롤업 버튼(반응형)
+<br />
 ├── 📄animal.html # 동물 페이지 
+<br />
 ├── 📄aqua.html # 아쿠아 페이지 
+<br />
 ├── 📄ceo.html # CEO 소개 페이지 
+<br />
 ├── 📄cure.html # 치료 관련 페이지 
+<br />
 ├── 📄detail.html # 상세 정보 페이지 
+<br />
 ├── 📄habitat.html # 서식지 정보 페이지 
+<br />
 ├── 📄header.html # 헤더 템플릿 
+<br />
 ├── 📄index.html # 메인 페이지 
+<br />
 ├── 📄info.html # 정보 페이지 
+<br />
 ├── 📄map.html # 지도 및 위치 정보 페이지 
+<br />
 ├── 📄rescue.html # 구조 관련 페이지 
+<br />
 ├── 📄research.html # 연구 관련 페이지 
+<br />
 ├── 📄study-detail.html # 연구 세부 정보 페이지 
+<br />
 ├── 📄study.html # 연구 관련 일반 페이지 
+<br />
 ├── 📄video.html # 비디오 페이지 
+<br />
 └── 📄README.md # 프로젝트 소개 파일
 
 
