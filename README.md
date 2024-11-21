@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- logo -->
-<img src="https://github.com/minhyun-k/Book-IEUM/blob/main/public/loading-1.png" width="400" height="400"/>
+<img src="https://github.com/minhyun-k/B-project/blob/main/img/animal/a-penguin.jpg" width="400" height="400"/>
 
 ### IEUM 🖍️
 
@@ -46,29 +46,29 @@
 
 |화면 명|
 |:---:|
-|로딩 화면|
-|<img src="https://github.com/minhyun-k/Book-IEUM/blob/main/public/loading.gif" width="450"/>|
-|처음 어플리케이션 실행 시 로딩화면 출력|
-|메인 홈|
+|홈 화면|
+|<img src="https://github.com/minhyun-k/B-project/blob/main/img/readme/aqua1.gif" width="450"/>|
+|메인 홈 화면입니다. 전체 5가지 메뉴로 구성되어있으며, 휠 이벤트를 통해 스크롤시 각 메뉴로 이동하도록 만들었습니다. 또한 좌측에 클릭 가능한 인디게이터를 통해 사용자가 원하는 곳으로 바로 이동할 수 있게 만들었습니다.|
+|연구센터 소개(메뉴)|
 |:---:|
-|<img src="https://github.com/minhyun-k/Book-IEUM/blob/main/public/Home.gif" width="450"/>|
-|홈 화면은 서버요청을 통해 베스트셀러, 신간 등 카테고리에 맞는 데이터가 출력되어 사용자가 도서 목록을 확인할 수 있습니다.|
-|도서목록|
+|<img src="https://github.com/minhyun-k/B-project/blob/main/img/readme/aqua_intro.gif" width="450"/>|
+|총 네 가지 메뉴 중 첫번 째 화면들입니다. 사이트 소개 부분이며, 인사말, 안내, 오시는 길 3가지 화면이 구성되어 있습니다.|
+|구조·치료활동(메뉴)|
 |:---:|
-|<img src="https://github.com/minhyun-k/Book-IEUM/blob/main/public/list.gif" width="450"/>|
-|홈 화면에서 각 카테고리별 더보기 클릭시, 혹은 헤더 메뉴 클릭시 각 카테고리에 맞는 도서 목록이 페이지에 출력됩니다.|
-|상세페이지|
+|<img src="https://github.com/minhyun-k/B-project/blob/main/img/readme/aqua_preserve.gif" width="450"/>|
+|해양생물연구센터 두 번째 메뉴입니다. 글로 이루어진 정보 제공 페이지 외에 구조 대상생물에 대한 안내가 있으며, tab 기능을 통해 사용자가 원하는 정보를 손쉽게 찾아볼 수 있도록 했습니다.|
+|보전활동(메뉴)|
 |:---:|
-|<img src="https://github.com/minhyun-k/Book-IEUM/blob/main/public/detail.gif" width="450"/>|
-|홈, 도서목록에서 사용자가 관심있는 도서 컨텐츠를 클릭 시, 클릭한 도서의 상세정보가 포함된 페이지가 열립니다. 이 페이지에서는 도서의 상세내용, 북마크, 코멘트 작성이 가능하며, 베스트셀러의 경우 베스트 순위, 신간의 경우 신간도서 표시가 제공됩니다.|
-|북마크 등록 및 코멘트 작성|
+|<img src="[https://github.com/minhyun-k/Book-IEUM/blob/main/public/detail.gif](https://github.com/minhyun-k/B-project/blob/main/img/readme/aqua_resque.gif)" width="450"/>|
+|해양생물연구센터 세 번째 메뉴입니다. 해양생물을 구조하는 연구센터의 구조기록을 사용자에게 전달하는 페이지입니다. 각 생물의 기본 정보와 해양생물 구조 기록에 대한 사진과 날짜 내용이 적혀있습니다. 구조 대상생물에 대한 안내가 있었던 앞선 메뉴와 같이 tab기능을 통해 사용자가 원하는 정보를 쉽게 알아볼 수 있도록 했습니다.|
+|연구과제(메뉴)|
 |:---:|
-|<img src="https://github.com/minhyun-k/Book-IEUM/blob/main/public/detail2.gif" width="450"/>|
-|북마크 클릭시 '읽는중', '읽고싶어요' 등록 가능, firebase를 통해 각 로그인한 사용자 개인 북마크 기능 활성화, 코멘트 작성 시 별점과 리뷰(댓글형식)가 표시됩니다.|
-|마이페이지|
+|<img src="[https://github.com/minhyun-k/Book-IEUM/blob/main/public/detail2.gif](https://github.com/minhyun-k/B-project/blob/main/img/readme/aqua_study.gif)" width="450"/>|
+|해양생물연구센터 마지막 메뉴입니다. 사용자가 사이트를 이용하는 가장 큰 목적이라고 생각하고 만든 페이지입니다. 연구기록과 학습목록이 담겨있어 보다 쉽게 사용자가 정보를 찾아볼 수 있도록 노력했습니다. 각 페이지의 데이터는 직접 json파일로 정리해 알맞은 순서로 출력되도록 했습니다.|
+|검색기능|
 |:---:|
-|<img src="https://github.com/minhyun-k/Book-IEUM/blob/main/public/mypage.gif" width="450"/>|
-|로그인 시 firebase를 사용하여, 각 사용자가 사용한 북마크와 코멘트가 출력되어 사용자의 경험, 히스토리를 확인할 수 있습니다.|
+|<img src="[https://github.com/minhyun-k/Book-IEUM/blob/main/public/mypage.gif](https://github.com/minhyun-k/B-project/blob/main/img/readme/aqua_search.gif)" width="450"/>|
+|사용자가 연구목록을 찾아볼 때, 사용자가 필요한 연구주제를 바로 검색해서 찾을 수 있도록 구현한 화면입니다.|
 
 <br />
 
@@ -97,7 +97,10 @@
    - 프로젝트 내 다양한 섹션(헤더, 푸터, 카드 등)은 재사용 가능한 구조로 설계되어 유지보수가 용이합니다.  
 
 4. **다양한 콘텐츠 관리**  
-   - 이미지를 포함한 정적 리소스와 텍스트 콘텐츠가 깔끔히 정리되어 있어 사용자에게 직관적인 정보 전달이 가능합니다.  
+   - 이미지를 포함한 정적 리소스와 텍스트를 json파일로 정리하여 필요한 곳에 데이터를 출력하여 코드를 보다 간단하게 만들어 유지 및 보수가 쉽도록 했습니다. 또한 데이터를 따로 정리하여 후에 추가되는 데이터 또한 손쉽게 하였고, 데이터 관리가 보다 쉽게 만들었습니다.
+   - 
+5. **검색 및 페이지, 게시판 기능**  
+   - 정보를 얻고자 하는 사용자가 주된 사용자가 될 것으로 예상하고, 사용자가 원하는 정보를 손쉽게 얻어갈 수 있는 것에 집중하여, 검색, 페이징 등과 같은 기능을 구현하였으며, 보다 나은 경험을 제공하기 위해 각 게시판 목록 콘텐츠들은 사용자가 지정한 대상을 알려주는 간단한 기능을 넣어 구분하기 쉽게 만들었습니다.
 
 ---
 <br />
