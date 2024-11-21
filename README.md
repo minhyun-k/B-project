@@ -3,13 +3,13 @@
 <!-- logo -->
 <img src="https://github.com/minhyun-k/B-project/blob/main/img/animal/a-penguin.jpg" width="400" height="400"/>
 
-### IEUM 🖍️
+### 해양생물연구센터 🖍️
 
 </div> 
 
 ## 📝 프로젝트 소개
 
-### B-Project는 순수 HTML, CSS, JavaScript만을 활용하여 제작한 웹 프로젝트로, 다음과 같은 목표를 가지고 개발되었습니다.
+### 해양생물연구센터는 순수 HTML, CSS, JavaScript만을 활용하여 제작한 웹 프로젝트로, 다음과 같은 목표를 가지고 개발되었습니다.
 
 1. **웹 기본기를 다지기 위한 학습 목적**
 
