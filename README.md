@@ -49,10 +49,6 @@
 |홈 화면|
 |<img src="https://github.com/minhyun-k/B-project/blob/main/img/readme/aqua1.gif" width="450"/>|
 |메인 홈 화면입니다. 전체 5가지 메뉴로 구성되어있으며, 휠 이벤트를 통해 스크롤시 각 메뉴로 이동하도록 만들었습니다. 또한 좌측에 클릭 가능한 인디게이터를 통해 사용자가 원하는 곳으로 바로 이동할 수 있게 만들었습니다.|
-|연구센터 소개(메뉴)|
-|:---:|
-|<img src="https://github.com/minhyun-k/B-project/blob/main/img/readme/aqua_intro.gif" width="450"/>|
-|총 네 가지 메뉴 중 첫번 째 화면들입니다. 사이트 소개 부분이며, 인사말, 안내, 오시는 길 3가지 화면이 구성되어 있습니다.|
 |구조·치료활동(메뉴)|
 |:---:|
 |<img src="https://github.com/minhyun-k/B-project/blob/main/img/readme/aqua_preserve.gif" width="450"/>|
@@ -65,11 +61,6 @@
 |:---:|
 |<img src="https://github.com/minhyun-k/B-project/blob/main/img/readme/aqua_study.gif" width="450"/>|
 |해양생물연구센터 마지막 메뉴입니다. 사용자가 사이트를 이용하는 가장 큰 목적이라고 생각하고 만든 페이지입니다. 연구기록과 학습목록이 담겨있어 보다 쉽게 사용자가 정보를 찾아볼 수 있도록 노력했습니다. 각 페이지의 데이터는 직접 json파일로 정리해 알맞은 순서로 출력되도록 했습니다.|
-|검색기능|
-|:---:|
-|<img src="https://github.com/minhyun-k/B-project/blob/main/img/readme/aqua_search.gif" width="450"/>|
-|사용자가 연구목록을 찾아볼 때, 사용자가 필요한 연구주제를 바로 검색해서 찾을 수 있도록 구현한 화면입니다.|
-
 <br />
 
 ## ⚙ 기술 스택
